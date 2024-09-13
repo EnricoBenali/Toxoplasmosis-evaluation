@@ -1,3 +1,2 @@
-Temporary repository, will be published as:
-Maimone Benali, Enrico; Itikawa, Mariana; Oliveira, Claudio; Leite, Antonio; Montanholi, Vinicius (2024), “Avaliação do conhecimento de pacientes e acompanhantes do Hospital Universitário de Maringá sobre toxoplasmose”, Mendeley Data, V1, doi: 10.17632/2yrbry6x7v.1
-CC BY-NC-SA 4.0
+Temporary repository
+Data collected from patients and companions at Maringá's Regional University Hospital via questionnaire regarding knowledge about toxoplasmosis for use by the contributors for a study. Use UTF-8 decoding for better viewing. 
